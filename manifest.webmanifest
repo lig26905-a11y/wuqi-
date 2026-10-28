@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "物期 · 物品与CPA错题记录",
+  "short_name": "物期",
+  "description": "记录物品到期时间，管理CPA错题与复习计划。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
